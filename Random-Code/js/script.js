@@ -1,7 +1,7 @@
 // This is a simple Password Generator App that will generate random password maybe you can you them to secure your account.
 // I tried my best to make the code as simple as possible please dont mind the variable names.
 // Also this idea came in my mind after checking Traversy Media's latest video.
-
+// 源码由白琉璃源码网免费分享
 // Clear the concole on every refresh
 console.clear();
 
